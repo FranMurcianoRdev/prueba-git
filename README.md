@@ -10,7 +10,7 @@
 4. Crear nueva rama y acceder a ella
 ![4. Crear nueva rama y acceder a ella](https://github.com/FranMurcianoRdev/prueba-git/assets/152601467/e33df435-7680-4754-bf21-515dc87d6dc6)
 
-5. Push rama secundaria
+Push rama secundaria
 ![ Push rama secundaria](https://github.com/FranMurcianoRdev/prueba-git/assets/152601467/b7d273b0-0be7-4faf-8c0c-2039671a2e5b)
 
 6. Merge rama principal con la secundaria
